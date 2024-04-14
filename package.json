@@ -1,7 +1,7 @@
 {
-  "name": "episode-2",
+  "name": "namaste-react-course",
   "version": "1.0.0",
-  "description": "this is namaste react ",
+  "description": "This is namaste react ",
   "scripts": {
     "test": "jest"
   },
@@ -17,14 +17,14 @@
   },
   "homepage": "https://github.com/karanpatel1993/namaste-react-course#readme",
   "devDependencies": {
-    "parcel": "^2.11.0",
+    "parcel": "^2.12.0",
     "process": "^0.11.10"
   },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "browserslist": [
+  "browsersList": [
     "last 2 versions"
   ]
 }
