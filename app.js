@@ -7,8 +7,6 @@ const Title = () => (
   </h1>
 );
 
-const number = 10000;
-
 // Component Composition
 const HeadingComponent = () => (
   <div id="container">
