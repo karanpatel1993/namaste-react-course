@@ -3,7 +3,6 @@ import { useState } from "react";
 const User = (props) => {
   const [count, setCount] = useState(0);
   const [count2, setCount2] = useState(1);
-  console.log(props);
   return (
     <div className="user-card">
       <h1>Count: {count}</h1>
